@@ -9,3 +9,5 @@ WIP:
 - trying to pattern match the headers of listings
 - List filter and quick search based on previous searches
 - push notifications to help with upto date events
+- inspiration from hardwareswap.pro
+- try using react??
